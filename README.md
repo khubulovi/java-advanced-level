@@ -10,3 +10,5 @@ ___
 * [Урок 2.](https://github.com/khubulovi/java-advanced-level/tree/master/src/lesson2) Исключения
 * [Урок 3.](https://github.com/khubulovi/java-advanced-level/tree/master/src/lesson3) Коллекции
 * [Урок 4.](https://github.com/khubulovi/java-advanced-level/tree/master/src/lesson4) Продвинутые вопросы создания графического интерфейса
+* [Урок 5.](https://github.com/khubulovi/java-advanced-level/blob/master/src/lesson5/Main.java) Многопоточность
+* [Урок 6.](https://github.com/khubulovi/java-advanced-level/tree/master/src/lesson6) Работа с сетью

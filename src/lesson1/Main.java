@@ -3,7 +3,7 @@ package lesson1;
  * Java Core. Advanced level. Lesson 1
  *
  * @author Malkhaz Khubulovi
- * @version dated November 24, 2023
+ * @version dated Mart 24, 2023
  */
 
 

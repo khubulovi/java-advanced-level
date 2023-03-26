@@ -6,7 +6,7 @@ import javax.swing.*;
  * Java Core. Advanced level. Lesson 4
  *
  * @author Malkhaz Khubulovi
- * @version dated November 25, 2023
+ * @version dated Mart 25, 2023
  */
 
 

@@ -7,7 +7,7 @@ import java.util.Map;
  * Java Core. Advanced level. Lesson 3
  *
  * @author Malkhaz Khubulovi
- * @version dated November 25, 2023
+ * @version dated Mart 25, 2023
  */
 
 //    1. Создать массив с набором слов (10-20 слов, среди которых должны встречаться повторяющиеся).

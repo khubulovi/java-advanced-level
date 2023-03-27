@@ -12,3 +12,4 @@ ___
 * [Урок 4.](https://github.com/khubulovi/java-advanced-level/tree/master/src/lesson4) Продвинутые вопросы создания графического интерфейса
 * [Урок 5.](https://github.com/khubulovi/java-advanced-level/blob/master/src/lesson5/Main.java) Многопоточность
 * [Урок 6.](https://github.com/khubulovi/java-advanced-level/tree/master/src/lesson6) Работа с сетью
+* [Урок 7.](https://github.com/khubulovi/java-advanced-level/tree/master/src/lesson7) Написание сетевого чата.Часть I

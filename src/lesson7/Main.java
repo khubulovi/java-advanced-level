@@ -10,6 +10,11 @@ import lesson7.Apps.ClientApp;
  * @version dated Mart 27, 2023
  */
 
+
+//   Task
+//   1. Разобраться с кодом.
+//   2. *Реализовать личные сообщения так: если клиент пишет «/w nick3 Привет», то только клиенту с ником nick3 должно прийти сообщение «Привет».
+
 public class Main {
     public static void main(String[] args) {
         new Server();

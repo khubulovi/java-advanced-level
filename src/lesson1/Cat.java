@@ -4,8 +4,6 @@ public class Cat implements Actions{
     protected String name;
     protected double limitOfRun;
     protected double limitOfJump;
-    protected double height;
-    protected double lenght;
 
     public Cat(String name, double limitOfRun, double limitOfJump) {
         this.name = name;

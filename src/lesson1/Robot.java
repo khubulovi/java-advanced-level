@@ -3,10 +3,7 @@ package lesson1;
 public class Robot implements Actions{
     private final String name;
     protected double limitOfRun;
-
     protected double limitOfJump;
-    protected double height;
-    protected double lenght;
 
     public Robot(String name, double limitOfRun, double limitOfJump) {
         this.name = name;

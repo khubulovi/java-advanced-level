@@ -5,8 +5,6 @@ public class Human implements Actions{
 
     protected double limitOfRun;
     protected double limitOfJump;
-    protected double height;
-    protected double lenght;
 
     public Human(String name, double limitOfRun, double limitOfJump) {
         this.name = name;

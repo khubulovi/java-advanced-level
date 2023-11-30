@@ -62,7 +62,6 @@ public class Main {
         Arrays.fill(arr, 1);
         long a = System.currentTimeMillis();
         calculate(arr);
-        System.currentTimeMillis();
         System.out.println("One Array calculates in : " + (System.currentTimeMillis() - a));
     }
 
@@ -79,7 +78,6 @@ public class Main {
             @Override
             public void run() {
                 calculate(arr1);
-                System.currentTimeMillis();
                 System.out.println("The calculation time of first array is : " + (System.currentTimeMillis() - a));
             }
         };
@@ -88,7 +86,6 @@ public class Main {
             @Override
             public void run() {
                 calculate(arr2);
-                System.currentTimeMillis();
                 System.out.println("The calculation time of second array is : " + (System.currentTimeMillis() - a));
             }
         };

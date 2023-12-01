@@ -17,7 +17,7 @@ import lesson7.Apps.ClientApp;
 
 public class Main {
     public static void main(String[] args) {
-        new Server();
+        new ServerApp();
         new ClientApp();
     }
 
